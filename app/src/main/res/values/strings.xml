@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BandanaApplication</string>
+    <string name="open_nav">Open BandanaApplication</string>
+    <string name="close_nav">Close BandanaApplication</string>
 </resources>
